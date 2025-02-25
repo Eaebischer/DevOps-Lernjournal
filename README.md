@@ -1,5 +1,5 @@
 # DevOps Lernjournal
-Test neu
+Super test!
 
 ## Regeln Lernjournal
 
