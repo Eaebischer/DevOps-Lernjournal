@@ -62,11 +62,18 @@ Ich habe das ganze Modul zuerst auf meinem alten Laptop aufgebaut. Was leider zu
 
 ## Peer-Feedback
 
-- [ ] TODO (letzte Semesterwoche)
+| Kategorie                                        | Bewertung                                                                 |
+|--------------------------------------------------|---------------------------------------------------------------------------|
+| Review durch (ZHAW-Kürzel)                      | aebetis                                                                   |
+| Review von (ZHAW-Kürzel)                        | frisclea                                                                  |
+| Sprache, Kommunikation, roter Faden             | kreativer Einstieg in die Präsentation, guter roter Faden erkennbar durch die Einleitung und die anschliessende Livedemo |
+| Nachvollziehbarkeit Inhalt, Demonstration       |     Die im Intro aufgezeigten Ziele und Tests wurden in der Demo gezeigt und selbständig noch noch eigenen Tests live ergänzt. Docker Image wurde ebenfalls gebaut und erstellt. Gelungener Zusammenschnitt aller Teile der Präsentation. Die Livedemo war gut verständglich und nachvollziehbar.                                                                      |
+
+
 
 ## Persönliches Fazit der Vorlesung
 
-Das Modul DevOps hat mir die Grundsätze und Methoden des strukturierten Vorgehens praxisnah und mit Beispielen in allen Bereichen näher gebracht. Von der Erstellung von App's, Testing, Deployment und vieles mehr habe ich diverse neue und spannende Dinge gelernt. Ich konnte mich auch gleichzeitig in VS Code und GitHub weiter einarbeiten und kann mich mittlerweile ganz sicher in diesen beiden Welten bewegen. Das selbst ausprobieren und nachbauen der Vorlesungen war zwar teilweise echt anspruchsvoll und aufwändig, jedoch auch lerreich. Ich habe gelernt wie ich mit Fehlermeldungen umgehe und diese möglichst effizient beheben kann.
+Das Modul DevOps hat mir die Grundsätze und Methoden des strukturierten Vorgehens im Bereich DevOps praxisnah und mit Beispielen in allen Bereichen näher gebracht. Von der Erstellung von App's, Testing, Deployment und vieles mehr habe ich diverse neue und spannende Dinge gelernt. Ich konnte mich auch gleichzeitig in VS Code und GitHub weiter einarbeiten und kann mich mittlerweile ganz sicher in diesen beiden Welten bewegen. Das selbst ausprobieren und nachbauen der Vorlesungen war zwar teilweise echt anspruchsvoll und aufwändig, jedoch auch lerreich. Ich habe gelernt wie ich mit Fehlermeldungen umgehe und diese möglichst effizient beheben kann.
 
 Ein wenig schade habe ich bei den Vorlesungen gefunden, dass wenn man rausgefallen ist, den Anschluss immer sehr schnell verloren hatte. Dies war dann in vielen Fällen praktisch unmöglich nachzuholen, weil man vielfach an einem Ort hängen bleibt. Das hat dann für mich das vor Ort sein nicht mehr so akkrativ gemacht, weil ich jedes Mal nach 10 oder 15 min rausgefallen bin und dann eh nicht mehr mitmachen konnte. Im Nachhinein habe ich dann immer die Aufzeichnungen angeschaut und pausiert und selbst probiert. Das hat in fast allen Fällen mit der Hilfe von ChatGPT ganz gut funktioniert.
 
