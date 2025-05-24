@@ -1,35 +1,5 @@
 # DevOps Lernjournal
 
-## Regeln Lernjournal
-
-### Repository
-* Eigenes *privates* Haupt-Repository basierend auf dieser Vorlage erstellen
-* Weitere vorgegebene *private* Repositories verwenden
-* Alle Repositories müssen an [mosazhaw] (https://www.github.com/mosazhaw) freigegeben sein
-
-### Struktur
-* Kapitelstruktur inkl. Nummerierung einhalten (die Reihenfolge, Struktur und Bezeichnung der Titel und Untertitel darf nicht verändert werden)
-* Es dürfen weitere Untertitel (4. Ebene mit ####) ergänzt werden
-
-### Inhalt
-* Deutsch, Markdown
-* Inhaltsverzeichnis und URL zu Repositories und Webseiten müssen klickbar sein (Links)
-* [ ] TODO bezeichnet Stellen, wo Text und/oder Grafiken/Screenshots ergänzt werden sollen
-* Vorgegebene Tabellen zu Beginn der jeweiligen Kapitel müssen belassen werden
-
-### Bilder, Grafiken und Screenshots
-* Es dürfen keine externen Bilder, Grafiken oder Screenshots verknüpft werden
-* Bilder, Grafiken und Screenshots müssen alle im jeweiligen Unterordner "images" abgelegt *und im Bericht sichtbar verknüpft* werden, ein Beispiel:
-
-<img src="images/devops.png" alt="DevOpsLogo" width="157" height="80">
-
-## Nachvollziehbarkeit Eigenständigkeit
-
-* Verwendung des eigenen Kürzels/Namen/Accounts in Projektnamen, Datei-Pfaden, Repositories, Docker-Images, Docker-Containern und weiteren wählbaren Bezeichnungen
-* Sichtbarkeit des eigenen Kürzels/Name/Accounts auf Screenshots
-* Screenshots passend zu aktuellem Datum, verwendeter Hard-/Software, Versionen
-* Inhalte Projektbericht passend zu Screencast
-
 ## Inhalt
 
 Link auf separates Git-Repo für jedes Kapitel. 
