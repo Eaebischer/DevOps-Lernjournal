@@ -33,7 +33,6 @@
 ## Inhalt
 
 Link auf separates Git-Repo für jedes Kapitel. 
-* [ ] TODO Die Links müssen nach dem Erstellen der eigenen Repos angepasst werden.
 
 - [01 Version Control](https://github.com/Eaebischer/DevOps-01-Version-Control)
 - [02 Build](https://github.com/Eaebischer/DevOps-02-Build)
@@ -45,6 +44,8 @@ Link auf separates Git-Repo für jedes Kapitel.
 - [08 CI2](https://github.com/Eaebischer/DevOps-08-CI2)
 - [09 Deployment Docker](https://github.com/Eaebischer/DevOps-09-Deployment-Docker)
 - [10 Deployment Cloud](https://github.com/Eaebischer/DevOps-10-Deployment-Cloud)
+- [Node Web App](https://github.com/Eaebischer/DevOpsNodeWebApp)
+
 
 ## Einführung
 
